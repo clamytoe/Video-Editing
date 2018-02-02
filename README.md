@@ -67,13 +67,13 @@ Next you will need to drag the movie from the playlist down to the bottom of the
 
 ![Timeline](img/timeline.png)
 
-Now is the time to save your your project. Give it a good name. Most media servers will accept the name of the movie followed by the year that the movie was released in enclosed in parenthesis. I would recommend looking up the movie on [iMDB](http://www.imdb.com) and getting the full name and year from there.
+Now is the time to save your project. Give it a good name. Most media servers will accept the name of the movie followed by the year that the movie was released in enclosed in parenthesis. I would recommend looking up the movie on [iMDB](http://www.imdb.com) and getting the full name and year from there.
 
 > Convert any **:** to **-** in the movie's title.
 
 ![iMDB](img/imdb.png)
 
-Once your project has been given the proper name and has been saved, you are ready to start editing.:
+Once your project has been given the proper name and has been saved, you are ready to start editing:
 
 ![ready](img/ready.png)
 
